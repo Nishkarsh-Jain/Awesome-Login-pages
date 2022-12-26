@@ -94,6 +94,7 @@ body {
   z-index: 10;
   font-size: 1em;
   letter-spacing: 0.05em;
+  color: rgba(255, 255, 255, 0.945);
 }
 .inputBox span {
   position: absolute;
