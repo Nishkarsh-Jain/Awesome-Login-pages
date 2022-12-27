@@ -7,7 +7,7 @@
 
 **Animated Glassmorphism Login form** 
 
-<img src="https://github.com/Nishkarsh-Jain/Awesome-Login-pages/tree/main/src/app/Images/Glassmorphism.png" style=" width:300px ; height:300px">
+<img src="Awesome-Login-pages/tree/main/src/app/Images/Glassmorphism.png" style=" width:300px ; height:300px">
 
 ![](https://github.com/Nishkarsh-Jain/Awesome-Login-pages/tree/main/src/app/Images/Glassmorphism.png)
 
