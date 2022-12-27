@@ -7,6 +7,6 @@
 
 **Animated Glassmorphism Login form** 
 
-![](src/app/Images/Glassmorphism.png)
+![](Awesome-Login-pages/src/app/Images/Glassmorphism.png)
 
 
