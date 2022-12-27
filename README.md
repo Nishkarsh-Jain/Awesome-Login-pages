@@ -1,6 +1,8 @@
 # Awesome-Login-pages
 
 **Animated Glassmorphism Login form** 
-![alt text](https://github.com/Nishkarsh-Jain/Awesome-Login-pages/blob/main/src/app/Images/Glassmorphism.png?raw=true)
 
-<img src="https://github.com/Nishkarsh-Jain/Awesome-Login-pages/blob/main/src/app/Images/Glassmorphism.png" style=" width:60px ; height:60px "  >
+
+<img src="https://user-images.githubusercontent.com/94288727/209666961-e9339b4d-9077-4463-8505-22bb3902ff52.png" style=" width:60px ; height:60px "  >
+
+
