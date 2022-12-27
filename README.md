@@ -10,4 +10,5 @@
 
 <img src="https://user-images.githubusercontent.com/94288727/209669765-1643e28c-04a9-4e6d-b8ca-a5297ad012a0.png" style=" width:300px ; height:300px">
 
-![hero](https://raw.githubusercontent.com/Nishkarsh-Jain/Awesome-Login-pages/main/src/app/Images/Glassmorphism.png)
+
+![hero](/src/app/Images/Glassmorphism.png)
