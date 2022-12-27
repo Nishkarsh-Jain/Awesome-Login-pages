@@ -1,3 +1,4 @@
 # Awesome-Login-pages
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-d6vhvf)
+**Animated Glassmorphism Login form** 
+![alt text](https://github.com/Nishkarsh-Jain/Awesome-Login-pages/src/app/Images/Glassmorphism.png?raw=true)
